@@ -1,1 +1,3 @@
-This is version control system. And first program of git repo in this
+This is version control system. And first program of git repo in this.
+
+hello im jagdish from rajasthan.
